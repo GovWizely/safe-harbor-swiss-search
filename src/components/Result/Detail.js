@@ -49,7 +49,7 @@ const Detail = ({ result }) => (
       <Row label="Industry Sector 4">{result.industry_sector_4}</Row>
 
       <Row label="Original Certification Date">{moment(result.certification_date).format('MM-DD-YYYY')}</Row>
-      <Row label="EU Certified Through">{moment(result.eu_certified_through).format('MM-DD-YYYY')}</Row>
+      <Row label="Swiss Certified Through">{moment(result.eu_certified_through).format('MM-DD-YYYY')}</Row>
     </tbody>
   </table>
 );
