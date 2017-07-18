@@ -61,7 +61,7 @@ export default Detail;
 
 
 const country_mappings = {
-  UNK:  'Kosovo',
+  UNK:  'United Kingdom',
   GER:  'Germany',
   FRA:  'France',
   NED:  'Netherlands',
@@ -70,17 +70,17 @@ const country_mappings = {
   IRE:  'Ireland',
   BEM:  'Belgium',
   SWE:  'Sweden',
-  AUS:  'Australia',
+  AUS:  'Austria',
   DEN:  'Denmark',
   POL:  'Poland',
   PTL:  'Portugal',
   FIN:  'Finland',
   CZR:  'Czech Republic',
   NOR:  'Norway',
-  GRE:  'Greenland',
+  GRE:  'Greece',
   HUN:  'Hungary',
   LUX:  'Luxembourg',
-  SLO:  'Slovenia',
+  SLO:  'Slovakia',
   ROM:  'Romania',
   SWI:  'Switzerland',
   SLN:  'Slovenia',
@@ -89,7 +89,7 @@ const country_mappings = {
   LAT:  'Latvia',
   BUL:  'Bulgaria',
   CYP:  'Cyprus',
-  MAL:  'Mali',
+  MAL:  'Malta',
   ICE:  'Iceland',
   LCT:  'Liechtenstein',
   CRO:  'Croatia'
